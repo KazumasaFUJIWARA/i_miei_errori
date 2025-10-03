@@ -47,6 +47,12 @@
 		"input": "Però ci sono tanti valiant di espressioni, questi valiant sono la più grande problema per studiare il giapponese",
 		"correzione": "Però ci sono tante varianti di espressioni, queste varianti sono il problema più grande per studiare il giapponese",
 		"argomento": ["lessico", "accordo di genere", "articolo", "ordine degli aggettivi"]
-	 }
+	},
+	{
+		"data": "2025-10-04-19-12",
+		"input": "In oltre abbiamo anche i diaretti come",
+		"correzione": "Inoltre abbiamo anche i dialetti come",
+		"argomento": ["ortografia", "lessico", "uso di avverbi"]
+	}
 ]
 }
