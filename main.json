@@ -41,6 +41,12 @@
 		"input": "Lavoro alle 23 solo venerid di normale. Sfortunatamente, abbiamo la differenza di tempo, questa ora ci sembra la piu comoda per noi.",
 		"correzione": "Lavoro alle 23 solo il venerdì normalmente. Sfortunatamente, abbiamo una differenza di fuso orario, quindi quest'ora ci sembra la più comoda per noi.",
 		"argomento": ["ortografia", "uso dell'articolo", "avverbio di frequenza", "lessico (fuso orario)", "accenti"]
-	}
+	},
+	{
+		"data": "2025-10-04-19-10",
+		"input": "Però ci sono tanti valiant di espressioni, questi valiant sono la più grande problema per studiare il giapponese",
+		"correzione": "Però ci sono tante varianti di espressioni, queste varianti sono il problema più grande per studiare il giapponese",
+		"argomento": ["lessico", "accordo di genere", "articolo", "ordine degli aggettivi"]
+	 }
 ]
 }
