@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 "items": [
 	{
@@ -85,4 +86,69 @@
 		"argomento": ["ortografia", "accenti", "lessico"]
 	}
 ]
+=======
+{
+"items": [
+{
+  "data": "2025-10-04-15-53",
+  "input": "Parlando i dolci alla pasticceria, non ho un dolce particolare preferito. Però mi piace il sistema che si riposa con caffè e dolci economichi",
+  "correzione": "Parlando di dolci in pasticceria, non ho un dolce particolare preferito. Però mi piace il momento di riposo con caffè e dolci economici",
+  "argomenti": ["preposizione", "lessico", "ortografia"]
+},
+	{
+		"data": "2025-10-03-09-40",
+		"input": "Non ti preoccupare. Anche se nel caso, non c'è problema perche tu hai appena iniziato a studiare il giapponese.",
+		"correzione": "Non ti preoccupare. Anche in quel caso, non c'è problema perché hai appena iniziato a studiare il giapponese.",
+		"argomento": ["congiunzioni", "accento grafico", "uso di pronomi"]
+	},
+	{
+		"data": "2025-10-03-09-42",
+		"input": "Quando ero a Bari, al supermercato, volevo capperi ma ho detto \"mi dia un etto di capelli\" a cameriere senza capelli.",
+		"correzione": "Quando ero a Bari, al supermercato, volevo dei capperi ma ho detto \"mi dia un etto di capelli\" a un commesso senza capelli.",
+		"argomento": ["articoli", "lessico", "uso di sostantivi"]
+	},
+	{
+		"data": "2025-10-03-09-44",
+		"input": "Oggi non è così speciale. Sarebbe meglio se i miei studenti studiassero più.",
+		"correzione": "Oggi non è così speciale. Sarebbe meglio se i miei studenti studiassero di più.",
+		"argomento": ["comparativi e avverbi di quantità", "congiuntivo imperfetto"]
+	},
+	{
+		"data": "2025-10-03-10-52",
+		"input": "Desu è una espressione commune e cortese. Non  lo usiamo per famiglia e amici, ma lo usiamo in altri casi.",
+		"correzione": "Desu è un'espressione comune e cortese. Non la usiamo con la famiglia e gli amici, ma la usiamo in altri casi.",
+		"argomento": ["articolo indeterminativo", "apostrofo", "aggettivo qualificativo", "uso del pronome diretto", "preposizione articolata"]
+	},
+	{
+		"data": "2025-10-03-12-11",
+		"input": "Però le espressioni casuali sono veramente caotici.",
+		"correzione": "Però le espressioni casuali sono veramente caotiche.",
+		"argomento": ["accordo aggettivo-sostantivo (genere e numero)"]
+	},
+	{
+		"data": "2025-10-02-00-43",
+		"input": "Hanno construtto l'autostrada dopo di Mussolini.",
+		"correzione": "Hanno costruito l'autostrada dopo Mussolini.",
+		"argomento": ["ortografia", "uso improprio di preposizione"]
+	},
+	{
+		"data": "2025-10-03-23-25",
+		"input": "Lavoro alle 23 solo venerid di normale. Sfortunatamente, abbiamo la differenza di tempo, questa ora ci sembra la piu comoda per noi.",
+		"correzione": "Lavoro alle 23 solo il venerdì normalmente. Sfortunatamente, abbiamo una differenza di fuso orario, quindi quest'ora ci sembra la più comoda per noi.",
+		"argomento": ["ortografia", "uso dell'articolo", "avverbio di frequenza", "lessico (fuso orario)", "accenti"]
+	},
+	{
+		"data": "2025-10-04-19-10",
+		"input": "Però ci sono tanti valiant di espressioni, questi valiant sono la più grande problema per studiare il giapponese",
+		"correzione": "Però ci sono tante varianti di espressioni, queste varianti sono il problema più grande per studiare il giapponese",
+		"argomento": ["lessico", "accordo di genere", "articolo", "ordine degli aggettivi"]
+	},
+	{
+		"data": "2025-10-04-19-12",
+		"input": "In oltre abbiamo anche i diaretti come",
+		"correzione": "Inoltre abbiamo anche i dialetti come",
+		"argomento": ["ortografia", "lessico", "uso di avverbi"]
+	}
+]
+>>>>>>> eb24e31600ccf3c44ccf9395bf87a8ae6fbe45c5
 }
