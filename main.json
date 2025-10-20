@@ -53,6 +53,30 @@
 		"input": "In oltre abbiamo anche i diaretti come",
 		"correzione": "Inoltre abbiamo anche i dialetti come",
 		"argomento": ["ortografia", "lessico", "uso di avverbi"]
+	},
+	{
+		"data": "2025-01-27-15-35",
+		"input": "Buon sapere che fa buono oggi lì.",
+		"correzione": "Bello sapere che fa bello oggi lì.",
+		"argomento": ["accordo aggettivo-sostantivo", "uso di 'buono' vs 'bello'", "struttura della frase"]
+	},
+	{
+		"data": "2025-01-27-15-45",
+		"input": "La foto mi rocorda la porta di Siena.",
+		"correzione": "La foto mi ricorda la porta di Siena.",
+		"argomento": ["ortografia", "verbo ricordare"]
+	},
+	{
+		"data": "2025-01-27-15-50",
+		"input": "Ci vuole alcuni tempo per abbituarla.",
+		"correzione": "Ci vuole del tempo per abituarmi.",
+		"argomento": ["accordo aggettivo-sostantivo", "ortografia", "uso di pronomi riflessivi", "struttura della frase"]
+	},
+	{
+		"data": "2025-01-27-15-55",
+		"input": "Principalmete, è piú facile la tasteria con meno tasti.",
+		"correzione": "Principalmente, è più facile la tastiera con meno tasti.",
+		"argomento": ["ortografia", "accenti", "lessico"]
 	}
 ]
 }
