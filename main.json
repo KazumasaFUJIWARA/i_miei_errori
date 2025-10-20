@@ -1,6 +1,12 @@
 {
 "items": [
 	{
+		"data": "2025-10-04-15-53",
+		"input": "Parlando i dolci alla pasticceria, non ho un dolce particolare preferito. Però mi piace il sistema che si riposa con caffè e dolci economichi",
+		"correzione": "Parlando di dolci in pasticceria, non ho un dolce particolare preferito. Però mi piace il momento di riposo con caffè e dolci economici",
+		"argomento": ["preposizione", "lessico", "ortografia"]
+	},
+	{
 		"data": "2025-10-03-09-40",
 		"input": "Non ti preoccupare. Anche se nel caso, non c'è problema perche tu hai appena iniziato a studiare il giapponese.",
 		"correzione": "Non ti preoccupare. Anche in quel caso, non c'è problema perché hai appena iniziato a studiare il giapponese.",
