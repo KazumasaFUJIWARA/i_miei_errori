@@ -95,6 +95,12 @@
 		"input": "Ci volebbe alcune tempo ma provo a capirlo.",
 		"correzione": "Ci vorrà del tempo ma provo a capirlo.",
 		"argomento": ["coniugazione verbale", "articoli indeterminativi", "accordo di genere"]
+	},
+	{
+		"data": "2025-10-22-07-00",
+		"input": "Ieri, mia moglie ha dimenticato la sua cellulare e le sue carte di credito nel bus. Mi ha chiesto chimare la azienda del bus e controllare le avevano trovato o no. Fortunatamente, l'hanno trovate e ho putoto raccoglierle.",
+		"correzione": "Ieri, mia moglie ha dimenticato il suo cellulare e le sue carte di credito sull'autobus. Mi ha chiesto di chiamare l'azienda dell'autobus e controllare se le avevano trovate o no. Fortunatamente, le hanno trovate e ho potuto recuperarle.",
+		"argomento": ["accordo di genere", "preposizioni", "ortografia", "elisione", "accordo del participio passato", "lessico"]
 	}
 ]
 }
