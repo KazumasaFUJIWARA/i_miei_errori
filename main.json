@@ -103,21 +103,6 @@
 		"argomento": ["accordo di genere", "preposizioni", "ortografia", "elisione", "accordo del participio passato", "lessico"]
 	},
 	{
-<<<<<<< HEAD
-		"data": "2025-10-29-06-33",
-		"input": "Ho letto la tua frase interessante da solo all'inizo. Ci sono alcuni paroli che non li sapevo ma ho potuto capire la grande parte del argoment.",
-		"correzione": "Ho letto la tua frase interessante da solo all'inizio. Ci sono alcune parole che non le sapevo ma ho potuto capire la maggior parte dell'argomento.",
-		"argomento": ["ortografia", "accordo di genere", "articoli indeterminativi", "elisione", "lessico"]
-	},
-	{
-		"data": "2025-10-29-06-57",
-		"input": "Non supporto il communismo, però non so il sistema buona politica. I Immigranti e il support sociale sono i gran problemi del mondo come hai scritto. Anche in giappone, abbiamo le discuzioni sui problema ma mi sambra che non si capsice bene la parte importante dei problemi.",
-		"correzione": "Non supporto il comunismo, però non so qual è il sistema politico migliore. Gli immigrati e il supporto sociale sono i grandi problemi del mondo come hai scritto. Anche in Giappone, abbiamo le discussioni sui problemi ma mi sembra che non si capisca bene la parte importante dei problemi.",
-		"argomento": ["ortografia", "accordo di genere", "majuscole", "lessico", "accordo di numero", "coniugazione verbale", "struttura della frase"]
-	},
-	{
-=======
->>>>>>> 3006b5124b32cc918cd02a0ae6491fa68ac008bc
 		"data": "2025-10-25-18-24",
 		"input": "Prendiamo gran attenzione al telemoto grande si chiama 南海トラフ地震：なんかいとらふじしん. Nel caso, Kyoto sarebbe distratto terrebilmente.",
 		"correzione": "Prestiamo grande attenzione al terremoto grande che si chiama 南海トラフ地震：なんかいとらふじしん. Nel caso, Kyoto sarebbe distrutta terribilmente.",
@@ -164,6 +149,12 @@
 		"input": "Secondo me, devo seguire l'istinto quando provo una cosa nuova, però normalmente, vorrei pensare prima di fare una case perché non vorrei svegliare.",
 		"correzione": "Secondo me, devo seguire l'istinto quando provo una cosa nuova, però normalmente, vorrei pensare prima di fare una cosa perché non vorrei sbagliare.",
 		"argomento": ["lessico (cosa vs case)", "lessico (sbagliare vs svegliare)", "struttura della frase"]
+	},
+	{
+		"data": "2025-10-29-07-48",
+		"input": "In Denmark, si paga circa 1300 euro fare un immigrante tornare alla sua paese.",
+		"correzione": "In Danimarca, si pagano circa 1300 euro per far tornare un immigrato al suo paese.",
+		"argomento": ["lessico (Danimarca vs Denmark)", "accordo del verbo (si pagano)", "preposizione (per)", "lessico (immigrato vs immigrante)", "accordo possessivo (suo vs sua)"]
 	}
 ]
 }
