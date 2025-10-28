@@ -103,6 +103,7 @@
 		"argomento": ["accordo di genere", "preposizioni", "ortografia", "elisione", "accordo del participio passato", "lessico"]
 	},
 	{
+<<<<<<< HEAD
 		"data": "2025-10-29-06-33",
 		"input": "Ho letto la tua frase interessante da solo all'inizo. Ci sono alcuni paroli che non li sapevo ma ho potuto capire la grande parte del argoment.",
 		"correzione": "Ho letto la tua frase interessante da solo all'inizio. Ci sono alcune parole che non le sapevo ma ho potuto capire la maggior parte dell'argomento.",
@@ -115,6 +116,8 @@
 		"argomento": ["ortografia", "accordo di genere", "majuscole", "lessico", "accordo di numero", "coniugazione verbale", "struttura della frase"]
 	},
 	{
+=======
+>>>>>>> 3006b5124b32cc918cd02a0ae6491fa68ac008bc
 		"data": "2025-10-25-18-24",
 		"input": "Prendiamo gran attenzione al telemoto grande si chiama 南海トラフ地震：なんかいとらふじしん. Nel caso, Kyoto sarebbe distratto terrebilmente.",
 		"correzione": "Prestiamo grande attenzione al terremoto grande che si chiama 南海トラフ地震：なんかいとらふじしん. Nel caso, Kyoto sarebbe distrutta terribilmente.",
