@@ -113,6 +113,54 @@
 		"input": "Non supporto il communismo, però non so il sistema buona politica. I Immigranti e il support sociale sono i gran problemi del mondo come hai scritto. Anche in giappone, abbiamo le discuzioni sui problema ma mi sambra che non si capsice bene la parte importante dei problemi.",
 		"correzione": "Non supporto il comunismo, però non so qual è il sistema politico migliore. Gli immigrati e il supporto sociale sono i grandi problemi del mondo come hai scritto. Anche in Giappone, abbiamo le discussioni sui problemi ma mi sembra che non si capisca bene la parte importante dei problemi.",
 		"argomento": ["ortografia", "accordo di genere", "majuscole", "lessico", "accordo di numero", "coniugazione verbale", "struttura della frase"]
+	},
+	{
+		"data": "2025-10-25-18-24",
+		"input": "Prendiamo gran attenzione al telemoto grande si chiama 南海トラフ地震：なんかいとらふじしん. Nel caso, Kyoto sarebbe distratto terrebilmente.",
+		"correzione": "Prestiamo grande attenzione al terremoto grande che si chiama 南海トラフ地震：なんかいとらふじしん. Nel caso, Kyoto sarebbe distrutta terribilmente.",
+		"argomento": ["lessico (prendere vs prestare)", "accordo aggettivo-sostantivo", "ortografia (terremoto)", "uso di 'che'", "ortografia (terribilmente)", "accordo del participio passato"]
+	},
+	{
+		"data": "2025-10-25-18-28",
+		"input": "ゆば é una speclialità di Kyoto, anche se non ha nessun sposa.",
+		"correzione": "ゆば è una specialità di Kyoto, anche se non ha nessun sapore.",
+		"argomento": ["ortografia (è vs é)", "ortografia (specialità)", "lessico (sapore vs sposa)"]
+	},
+	{
+		"data": "2025-10-25-18-34",
+		"input": "Che impauriti. Sfortunatamente, sappiamo non possiamo smettere il terremoto e i studiosi dicono che lo avremo nel futuro vicino.",
+		"correzione": "Che paura. Sfortunatamente, sappiamo che non possiamo fermare il terremoto e gli studiosi dicono che lo avremo in un futuro vicino.",
+		"argomento": ["lessico (paura vs impauriti)", "uso di 'che'", "lessico (fermare vs smettere)", "articolo (gli)", "preposizione (in un futuro)"]
+	},
+	{
+		"data": "2025-10-25-18-42",
+		"input": "Onestamente, \"la festa di bere\" non è un buon tradurre.",
+		"correzione": "Onestamente, \"la festa di bere\" non è una buona traduzione.",
+		"argomento": ["accordo aggettivo-sostantivo (buona vs buon)", "lessico (traduzione vs tradurre)", "uso del sostantivo"]
+	},
+	{
+		"data": "2025-10-25-18-44",
+		"input": "のみかい é la cena socievole con alcolico.",
+		"correzione": "のみかい è la cena sociale con alcolici.",
+		"argomento": ["ortografia (è vs é)", "lessico (sociale vs socievole)", "accordo di genere (alcolici vs alcolico)"]
+	},
+	{
+		"data": "2025-10-25-20-06",
+		"input": "Dipende. Per esempio, ho deciso di comprare la tastiera nuova ma prima di comprarla, ho investito tanto.",
+		"correzione": "Dipende. Per esempio, ho deciso di comprare una tastiera nuova ma prima di comprarla, ho investito tanto.",
+		"argomento": ["uso dell'articolo indeterminativo (una vs la)", "coerenza del discorso"]
+	},
+	{
+		"data": "2025-10-25-20-08",
+		"input": "Dipende. Per esempio, ho deciso di comprare una tastiera di nuovo tipo ma prima di comprarla, ho investito tanto.",
+		"correzione": "Dipende. Per esempio, ho deciso di comprare una tastiera di nuovo tipo ma prima di comprarla, ho investito tanto.",
+		"argomento": ["grammatica corretta", "uso di 'nuovo tipo'", "struttura della frase"]
+	},
+	{
+		"data": "2025-10-25-20-11",
+		"input": "Secondo me, devo seguire l'istinto quando provo una cosa nuova, però normalmente, vorrei pensare prima di fare una case perché non vorrei svegliare.",
+		"correzione": "Secondo me, devo seguire l'istinto quando provo una cosa nuova, però normalmente, vorrei pensare prima di fare una cosa perché non vorrei sbagliare.",
+		"argomento": ["lessico (cosa vs case)", "lessico (sbagliare vs svegliare)", "struttura della frase"]
 	}
 ]
 }
