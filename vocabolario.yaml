@@ -1,0 +1,134 @@
+# Vocabolario Italiano - Parole difficili
+# イタリア語語彙集 - 難易度の高い語彙
+
+parole:
+	passeggiare:
+		parola: "passeggiare"
+		categoria: "verbo"
+		significato: "散歩する、ぶらぶら歩く"
+		etimologia: "passo（歩く）から派生"
+		imperfetto: "passeggiavo"
+		esempi:
+			- "Mi piace passeggiare nel parco"
+			- "Passeggiamo insieme stasera?"
+		livello: "intermedio"
+
+	sul_tardi:
+		parola: "sul tardi"
+		categoria: "espressione"
+		significato: "遅く、夜遅く"
+		sinonimi:
+			- "tardi"
+			- "in ritardo"
+		esempi:
+			- "Arrivo sul tardi"
+			- "Sul tardi andiamo al cinema"
+		livello: "intermedio"
+
+	raccomandabili:
+		parola: "raccomandabili"
+		categoria: "aggettivo"
+		significato: "信頼できる、推薦できる"
+		etimologia: "raccomandare（推薦する）から派生"
+		contrario: "poco raccomandabili"
+		esempi:
+			- "Persone raccomandabili"
+			- "Un comportamento raccomandabile"
+		livello: "avanzato"
+
+	forze_dell_ordine:
+		parola: "forze dell'ordine"
+		categoria: "sostantivo_composto"
+		significato: "治安当局、警察組織"
+		componenti:
+			- "forze（力、組織）"
+			- "dell'ordine（秩序の）"
+		esempi_concreti:
+			- "polizia（警察）"
+			- "carabinieri（カラビニエリ）"
+		esempi:
+			- "Le forze dell'ordine sono intervenute"
+		livello: "avanzato"
+
+	nullafacenti:
+		parola: "nullafacenti"
+		categoria: "aggettivo"
+		significato: "何もしない、怠惰な"
+		etimologia: "nulla（何もない）+ facenti（する人）"
+		sinonimi:
+			- "pigri（怠惰な）"
+			- "oziosi（怠け者の）"
+		esempi:
+			- "Persone nullafacenti"
+			- "Un atteggiamento nullafacente"
+		livello: "avanzato"
+
+	disagi:
+		parola: "disagi"
+		categoria: "sostantivo"
+		significato: "不便、困難、迷惑"
+		singolare: "disagio"
+		sinonimi:
+			- "problemi（問題）"
+			- "difficoltà（困難）"
+		esempi:
+			- "Creare disagi"
+			- "Soffrire di disagi"
+		livello: "intermedio"
+
+	sussidi:
+		parola: "sussidi"
+		categoria: "sostantivo"
+		significato: "補助金、助成金"
+		singolare: "sussidio"
+		sinonimi:
+			- "aiuti（援助）"
+			- "contributi（補助）"
+		esempi:
+			- "Ricevere sussidi dallo stato"
+			- "Sussidi per i disoccupati"
+		livello: "avanzato"
+
+	carte_sociali:
+		parola: "carte sociali"
+		categoria: "sostantivo_composto"
+		significato: "社会カード（福祉カード）"
+		spiegazione: "イタリアの社会保障制度の一部"
+		esempi:
+			- "Richiedere le carte sociali"
+			- "Usare le carte sociali per i servizi"
+		livello: "avanzato"
+
+	sacrifici:
+		parola: "sacrifici"
+		categoria: "sostantivo"
+		significato: "犠牲、苦労"
+		singolare: "sacrificio"
+		verbo: "sacrificare（犠牲にする）"
+		esempi:
+			- "Fare sacrifici per la famiglia"
+			- "I sacrifici necessari per il lavoro"
+		livello: "intermedio"
+
+	rossa:
+		parola: "rossa"
+		categoria: "aggettivo"
+		significato: "赤い（政治的には共産主義を指す）"
+		contesto_politico: "イタリアでは伝統的に左翼・共産主義を「赤」で表現"
+		esempi:
+			- "Regione rossa（赤い地域）"
+			- "Partito rosso（赤い政党）"
+		livello: "avanzato"
+
+# 統計情報
+statistiche:
+	totale_parole: 10
+	livelli:
+		intermedio: 4
+		avanzato: 6
+	categorie:
+		verbo: 1
+		aggettivo: 4
+		sostantivo: 3
+		sostantivo_composto: 2
+		espressione: 1
