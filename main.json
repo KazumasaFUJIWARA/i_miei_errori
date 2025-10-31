@@ -155,6 +155,30 @@
 		"input": "In Denmark, si paga circa 1300 euro fare un immigrante tornare alla sua paese.",
 		"correzione": "In Danimarca, si pagano circa 1300 euro per far tornare un immigrato al suo paese.",
 		"argomento": ["lessico (Danimarca vs Denmark)", "accordo del verbo (si pagano)", "preposizione (per)", "lessico (immigrato vs immigrante)", "accordo possessivo (suo vs sua)"]
+	},
+	{
+		"data": "2025-10-31-23-32",
+		"input": "Scusami per il risposto ritardo. Pensavo che abbiamo un appuntamento ma l'ho organizzato nel modo male e non lo abbiamo.",
+		"correzione": "Scusami per il ritardo nella risposta. Pensavo che avessimo un appuntamento, ma l'ho organizzato male e alla fine non c'è stato.",
+		"argomento": ["lessico (ritardo nella risposta)", "congiuntivo trapassato/imperfetto (avessimo)", "struttura della frase", "lessico (organizzare male)"]
+	},
+	{
+		"data": "2025-10-31-23-42",
+		"input": "Sì ma non ha appato.",
+		"correzione": "Sì, ma non si è presentato.",
+		"argomento": ["lessico (presentarsi vs apparire)", "ortografia (appare/è apparso)", "verbo riflessivo + ausiliare"]
+	},
+	{
+		"data": "2025-10-31-23-47",
+		"input": "Però pensavo che tanti italiani pensano giapponesi e cinesi sono uguali.",
+		"correzione": "Però pensavo che molti italiani pensassero che i giapponesi e i cinesi fossero uguali.",
+		"argomento": ["consecutio temporum (congiuntivo imperfetto)", "articolo determinativo con plurale generico", "lessico (molti vs tanti)"]
+	},
+	{
+		"data": "2025-10-31-23-49",
+		"input": "Almeno a Pisa, si mi ha detto così",
+		"correzione": "Almeno a Pisa, mi hanno detto così.",
+		"argomento": ["accento grafico (sì)", "uso impersonale/plurale (mi hanno detto)", "punteggiatura (virgola)"]
 	}
 ]
 }
