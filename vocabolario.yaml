@@ -120,15 +120,220 @@ parole:
 			- "Partito rosso（赤い政党）"
 		livello: "avanzato"
 
+	ora_legale:
+		parola: "ora legale"
+		categoria: "sostantivo_composto"
+		significato: "サマータイム、夏時間"
+		spiegazione: "時計を1時間進める制度（通常3月最終日曜日から10月最終日曜日まで）"
+		contrario: "ora solare（標準時、冬時間）"
+		esempi:
+			- "L'ora legale inizia a marzo"
+			- "Con l'ora legale si guadagna un'ora di luce"
+		livello: "intermedio"
+
+	quanto:
+		parola: "quanto"
+		categoria: "pronome_interrogativo"
+		significato: "どれだけ、どのくらい（程度・量を表す疑問詞・関係詞）"
+		spiegazione: "「quando」は時点（いつ）を表すが、「quanto」は程度・量（どれだけ）を表す"
+		confronto: "quando（いつ）vs quanto（どれだけ）"
+		esempi:
+			- "Quanto tempo ci vuole?（どれくらい時間がかかりますか？）"
+			- "Un'ora dopo di quanto pensassi（私が思っていたより1時間後）"
+			- "Più tardi di quanto immaginassi（思っていたより遅く）"
+		livello: "intermedio"
+
+	malinconia:
+		parola: "malinconia"
+		categoria: "sostantivo"
+		significato: "憂鬱、憂うつ、物憂げな気分"
+		etimologia: "ギリシャ語の「melaina chole（黒い胆汁）」から由来"
+		sinonimi:
+			- "tristezza（悲しみ）"
+			- "malessere（不快感）"
+		aggettivo: "malinconico（憂鬱な）"
+		esempi:
+			- "Sentire malinconia"
+			- "Una sensazione di malinconia"
+			- "Essere preso dalla malinconia（憂鬱に襲われる）"
+		livello: "avanzato"
+
+	tratti:
+		parola: "tratti"
+		categoria: "sostantivo"
+		significato: "特徴、性質、顔つき、容姿"
+		singolare: "tratto"
+		sinonimi:
+			- "caratteristiche（特徴）"
+			- "lineamenti（顔の特徴）"
+			- "aspetti（側面）"
+		espressioni_comuni:
+			- "tratti del viso（顔の特徴）"
+			- "tratti caratteristici（特徴的な性質）"
+		esempi:
+			- "Ha i tratti del padre（父親の特徴を持っている）"
+			- "Tratti somatici（身体的特徴）"
+			- "Riconoscere dai tratti（特徴から認識する）"
+		livello: "intermedio"
+
+	purtroppo:
+		parola: "purtroppo"
+		categoria: "avverbio"
+		significato: "残念ながら、不幸にも"
+		sinonimi:
+			- "sfortunatamente（不幸にも）"
+			- "disgraziatamente（不運にも）"
+		contrario: "fortunatamente（幸運にも）"
+		posizione: "文頭または動詞の前に置くことが多い"
+		esempi:
+			- "Purtroppo non posso venire（残念ながら来られません）"
+			- "Tante persone si limitano a guardare senza osservare, purtroppo（残念ながら多くの人は見るだけで観察しない）"
+		livello: "intermedio"
+
+	limitarsi:
+		parola: "limitarsi"
+		categoria: "verbo_riflessivo"
+		significato: "自分を制限する、〜に留まる、〜だけに限る"
+		verbo_base: "limitare（制限する）"
+		spiegazione: "反射動詞として「si limitano」の形で使われる。「si limitano a + infinito」で「〜することだけに留まる」"
+		sinonimi:
+			- "restare（留まる）"
+			- "fermarsi（止まる）"
+		esempi:
+			- "Si limitano a guardare（見るだけで留まっている）"
+			- "Mi limito a dire la verità（真実を言うことに留める）"
+			- "Non si limita solo a questo（これだけに留まらない）"
+		livello: "avanzato"
+
+	osservare:
+		parola: "osservare"
+		categoria: "verbo"
+		significato: "観察する、注意深く見る、気づく"
+		differenza_con_guardare: "guardare（見る）よりも注意深く、詳細に観察することを意味する"
+		sinonimi:
+			- "notare（気づく）"
+			- "esaminare（検討する）"
+		esempi:
+			- "Guardare senza osservare（見るだけで観察しない）"
+			- "Osservare attentamente（注意深く観察する）"
+			- "Ho osservato che...（〜に気づいた）"
+		livello: "intermedio"
+
+	carnagione:
+		parola: "carnagione"
+		categoria: "sostantivo"
+		significato: "肌色、肌の色合い、皮膚の色調"
+		spiegazione: "pelleより正式で、特に肌の色合いを表現する時に使う"
+		sinonimi:
+			- "colorito（血色、顔色）"
+			- "tono della pelle（肌のトーン）"
+		esempi:
+			- "Carnagione più abbronzata（より日焼けした肌色）"
+			- "Carnagione chiara（明るい肌色）"
+			- "La sua carnagione（彼女の肌色）"
+		livello: "avanzato"
+
+	abbronzato:
+		parola: "abbronzato"
+		categoria: "aggettivo"
+		significato: "日焼けした、焼けた肌の"
+		verbo: "abbronzare（日焼けする）"
+		participio_passato: "abbronzato"
+		forma_femminile: "abbronzata"
+		sinonimi:
+			- "scurito（黒くなった）"
+			- "tostato（焼けた）"
+		esempi:
+			- "Carnagione più abbronzata（より日焼けした肌色）"
+			- "Sono abbronzato dopo le vacanze（休暇後に日焼けした）"
+			- "Pelle abbronzata（日焼けした肌）"
+		livello: "intermedio"
+
+	prendere_per:
+		parola: "prendere per"
+		categoria: "espressione_verbale"
+		significato: "〜と間違える、〜だと思う、〜だと見なす"
+		spiegazione: "「prendere + 名詞 + per + 名詞」の形で「〜を〜と間違える」という意味になる"
+		uso: "よく受動態で「essere preso per（〜と間違えられる）」として使われる"
+		esempi:
+			- "Mi prendevano per straniera（私を外国人だと間違えていた）"
+			- "Mi hanno preso per italiano（私をイタリア人だと思った）"
+			- "Non prendermi per scemo（私をバカだと思わないで）"
+		livello: "avanzato"
+
+	onestamente:
+		parola: "onestamente"
+		categoria: "avverbio"
+		significato: "正直に、率直に、誠実に"
+		aggettivo_base: "onesto（正直な、誠実な）"
+		sinonimi:
+			- "francamente（率直に）"
+			- "sinceramente（誠実に）"
+		posizione: "文頭または文中で使われる"
+		esempi:
+			- "Onestamente, è difficile trovare i tratti di apparenza（正直に言うと、外見の特徴を見つけるのは難しい）"
+			- "Onestamente non lo so（正直に言うと知りません）"
+			- "Parliamo onestamente（正直に話しましょう）"
+		livello: "intermedio"
+
+	apparenza:
+		parola: "apparenza"
+		categoria: "sostantivo"
+		significato: "外見、見た目、外観、表面的な様子"
+		sinonimi:
+			- "aspetto（外見）"
+			- "sembianza（見た目）"
+		frasi_comuni:
+			- "all'apparenza（見た目には）"
+			- "in apparenza（表面的には）"
+		esempi:
+			- "È difficile trovare i tratti di apparenza（外見の特徴を見つけるのは難しい）"
+			- "L'apparenza inganna（見た目は欺く）"
+			- "All'apparenza sembra facile（見た目には簡単に見える）"
+		livello: "avanzato"
+
+	thailandese:
+		parola: "thailandese"
+		categoria: "aggettivo_sostantivo"
+		significato: "タイの、タイ人の（形容詞）/ タイ人（名詞）"
+		paese: "Thailandia（タイ）"
+		genere: "男性・女性共通、複数形: thailandesi"
+		varianti: "tailandese（より一般的な表記）"
+		esempi:
+			- "Un uomo thailandese（タイ人の男性）"
+			- "Una donna thailandese（タイ人の女性）"
+			- "I thailandesi（タイ人たち）"
+			- "Cucina thailandese（タイ料理）"
+		livello: "intermedio"
+
+	indonesiano:
+		parola: "indonesiano"
+		categoria: "aggettivo_sostantivo"
+		significato: "インドネシアの、インドネシア人の（形容詞）/ インドネシア人（名詞）"
+		paese: "Indonesia（インドネシア）"
+		genere: "男性形: indonesiano, 女性形: indonesiana, 複数形: indonesiani（男性）/ indonesiane（女性）"
+		esempi:
+			- "Un uomo indonesiano（インドネシア人の男性）"
+			- "Una donna indonesiana（インドネシア人の女性）"
+			- "Gli indonesiani（インドネシア人たち）"
+			- "Cucina indonesiana（インドネシア料理）"
+			- "La lingua indonesiana（インドネシア語）"
+		livello: "intermedio"
+
 # 統計情報
 statistiche:
-	totale_parole: 10
+	totale_parole: 24
 	livelli:
-		intermedio: 4
-		avanzato: 6
+		intermedio: 13
+		avanzato: 11
 	categorie:
-		verbo: 1
-		aggettivo: 4
-		sostantivo: 3
-		sostantivo_composto: 2
+		verbo: 2
+		verbo_riflessivo: 1
+		aggettivo: 5
+		aggettivo_sostantivo: 2
+		sostantivo: 7
+		sostantivo_composto: 3
+		avverbio: 2
 		espressione: 1
+		espressione_verbale: 1
+		pronome_interrogativo: 1
