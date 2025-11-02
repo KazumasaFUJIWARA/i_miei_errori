@@ -320,16 +320,36 @@ parole:
 			- "La lingua indonesiana（インドネシア語）"
 		livello: "intermedio"
 
+	marcato:
+		parola: "marcato"
+		categoria: "aggettivo"
+		significato: "印をつけられた、はっきりした、強調された、明確な"
+		verbo_base: "marcare（印をつける、強調する、マークする）"
+		participio_passato: "marcato"
+		sinonimi:
+			- "evidente（明白な）"
+			- "chiaro（明確な）"
+			- "distinto（区別された）"
+		usi_comuni:
+			- "contrasto marcato（明確な対比）"
+			- "accento marcato（強いアクセント）"
+			- "differenza marcata（はっきりした違い）"
+		esempi:
+			- "Un contrasto marcato（明確な対比）"
+			- "Ha un accento marcato（強いアクセントがある）"
+			- "La differenza è marcata（違いがはっきりしている）"
+		livello: "intermedio"
+
 # 統計情報
 statistiche:
-	totale_parole: 24
+	totale_parole: 25
 	livelli:
-		intermedio: 13
+		intermedio: 14
 		avanzato: 11
 	categorie:
 		verbo: 2
 		verbo_riflessivo: 1
-		aggettivo: 5
+		aggettivo: 6
 		aggettivo_sostantivo: 2
 		sostantivo: 7
 		sostantivo_composto: 3

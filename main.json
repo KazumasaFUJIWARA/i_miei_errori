@@ -1,30 +1,6 @@
 {
 "items": [
 	{
-		"data": "2025-11-01-14-00",
-		"input": "Anch'io ho una esperizna di prndere per un straniero.",
-		"correzione": "Anch'io sono stato preso per un straniero.",
-		"argomento": ["ortografia (esperienza vs esperizna)", "ortografia (prendere vs prndere)", "uso di essere preso per", "espressione idiomatica", "passivo"]
-	},
-	{
-		"data": "2025-11-01-13-00",
-		"input": "Onestamente, é difficile per trovare i tratti di apparenza. Per esempio, non so la differenza di tratti dei Italiani e Burgali, per esempio.",
-		"correzione": "Onestamente, è difficile distinguere i tratti fisici. Per esempio, non so qual è la differenza tra i tratti degli italiani e dei bulgari.",
-		"argomento": ["ortografia (è vs é)", "lessico (distinguere vs trovare)", "lessico (tratti fisici vs tratti di apparenza)", "preposizione (tra vs di)", "aggettivi nazionali (italiani, bulgari)", "ripetizione (per esempio)"]
-	},
-	{
-		"data": "2025-11-01-12-00",
-		"input": "Ho senstito malinconia ieri",
-		"correzione": "Mi sono sentito malinconico ieri.",
-		"argomento": ["ortografia (sentito vs senstito)", "verbo riflessivo (sentirsi)", "lessico (malinconico vs malinconia)", "stato vs azione"]
-	},
-	{
-		"data": "2025-11-01-11-00",
-		"input": "Lui è presentato un ora dopo di quando avevo pensato.",
-		"correzione": "Lui si è presentato un'ora dopo di quanto pensassi.",
-		"argomento": ["verbo riflessivo (presentarsi)", "apostrofo (un'ora)", "uso di quanto vs quando", "congiuntivo imperfetto (pensassi)"]
-	},
-	{
 		"data": "2025-10-04-15-53",
 		"input": "Parlando i dolci alla pasticceria, non ho un dolce particolare preferito. Però mi piace il sistema che si riposa con caffè e dolci economichi",
 		"correzione": "Parlando di dolci in pasticceria, non ho un dolce particolare preferito. Però mi piace il momento di riposo con caffè e dolci economici",
@@ -203,6 +179,42 @@
 		"input": "Almeno a Pisa, si mi ha detto così",
 		"correzione": "Almeno a Pisa, mi hanno detto così.",
 		"argomento": ["accento grafico (sì)", "uso impersonale/plurale (mi hanno detto)", "punteggiatura (virgola)"]
+	},
+	{
+		"data": "2025-11-01-00-00",
+		"input": "Lui è presentato un ora dopo di quando avevo pensato.",
+		"correzione": "Lui si è presentato un'ora dopo di quanto pensassi.",
+		"argomento": ["verbo riflessivo (presentarsi)", "apostrofo (un'ora)", "uso di quanto vs quando", "congiuntivo imperfetto (pensassi)"]
+	},
+	{
+		"data": "2025-11-01-01-00",
+		"input": "Ho senstito malinconia ieri",
+		"correzione": "Mi sono sentito malinconico ieri.",
+		"argomento": ["ortografia (sentito vs senstito)", "verbo riflessivo (sentirsi)", "lessico (malinconico vs malinconia)", "stato vs azione"]
+	},
+	{
+		"data": "2025-11-01-02-00",
+		"input": "Onestamente, é difficile per trovare i tratti di apparenza. Per esempio, non so la differenza di tratti dei Italiani e Burgali, per esempio.",
+		"correzione": "Onestamente, è difficile distinguere i tratti fisici. Per esempio, non so qual è la differenza tra i tratti degli italiani e dei bulgari.",
+		"argomento": ["ortografia (è vs é)", "lessico (distinguere vs trovare)", "lessico (tratti fisici vs tratti di apparenza)", "preposizione (tra vs di)", "aggettivi nazionali (italiani, bulgari)", "ripetizione (per esempio)"]
+	},
+	{
+		"data": "2025-11-01-03-00",
+		"input": "Anch'io ho una esperizna di prndere per un straniero.",
+		"correzione": "Anch'io sono stato preso per un straniero.",
+		"argomento": ["ortografia (esperienza vs esperizna)", "ortografia (prendere vs prndere)", "uso di essere preso per", "espressione idiomatica", "passivo"]
+	},
+	{
+		"data": "2025-11-01-04-00",
+		"input": "Finalmente, ho finito un task di oggi.",
+		"correzione": "Finalmente, ho finito i compiti di oggi.",
+		"argomento": ["lessico (compito vs task)", "uso dell'articolo (i compiti)", "prestito linguistico"]
+	},
+	{
+		"data": "2025-11-01-05-00",
+		"input": "Per noi, il periodo dei difunti è la vacanza di estate.",
+		"correzione": "Per noi, il periodo dei defunti sono le vacanze estive.",
+		"argomento": ["lessico (defunti vs difunti)", "accordo verbo-soggetto (sono vs è)", "lessico (vacanze estive vs vacanza di estate)", "uso del plurale (le vacanze)"]
 	}
 ]
 }
