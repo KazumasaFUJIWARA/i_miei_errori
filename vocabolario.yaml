@@ -219,6 +219,21 @@ parole:
 			- "Ho osservato che...（〜に気づいた）"
 		livello: "intermedio"
 
+	caminetto:
+		parola: "caminetto"
+		categoria: "sostantivo"
+		significato: "暖炉、暖炉の炉辺"
+		spiegazione: "室内で薪などを燃やして暖を取る壁付けの暖房設備"
+		plurale: "caminetti"
+		sinonimi:
+			- "focolare（炉、暖炉）"
+			- "camino（煙突、暖炉）"
+		esempi:
+			- "Accendere il caminetto in inverno（冬に暖炉に火をつける）"
+			- "Sedersi davanti al caminetto（暖炉の前に座る）"
+			- "Un salotto con caminetto（暖炉のあるリビング）"
+		livello: "intermedio"
+
 	carnagione:
 		parola: "carnagione"
 		categoria: "sostantivo"
@@ -340,20 +355,357 @@ parole:
 			- "La differenza è marcata（違いがはっきりしている）"
 		livello: "intermedio"
 
+	prestare:
+		parola: "prestare"
+		categoria: "verbo"
+		significato: "貸す、与える、提供する"
+		spiegazione: "主に「貸す」の意味だが、注意や援助などを「与える」という意味でも使われる"
+		imperfetto: "prestavo"
+		sinonimi:
+			- "dare in prestito（貸す）"
+			- "concedere（与える）"
+		contrario: "prendere in prestito（借りる）"
+		espressioni_comuni:
+			- "prestare attenzione（注意を払う）"
+			- "prestare denaro（お金を貸す）"
+			- "prestare aiuto（援助を提供する）"
+		esempi:
+			- "Mi puoi prestare la penna?（ペンを貸してもらえますか？）"
+			- "Presta attenzione!（注意を払って！）"
+			- "Ho prestato i soldi a mio fratello（弟にお金を貸した）"
+		livello: "intermedio"
+
+	spostare:
+		parola: "spostare"
+		categoria: "verbo"
+		significato: "動かす、移動させる、移す、延期する"
+		spiegazione: "物の位置を変える、または日時や予定を変更する"
+		imperfetto: "spostavo"
+		sinonimi:
+			- "muovere（動かす）"
+			- "trasferire（移す）"
+			- "rimandare（延期する）"
+		forma_riflessiva: "spostarsi（移動する、引っ越す）"
+		espressioni_comuni:
+			- "spostare un appuntamento（約束を延期する）"
+			- "spostare la data（日付を変更する）"
+			- "spostare un mobile（家具を動かす）"
+		esempi:
+			- "Devo spostare l'incontro a domani（会議を明日に延期しなければならない）"
+			- "Sposta la sedia qui（椅子をここに動かして）"
+			- "Mi sono spostato a Roma（ローマに引っ越した）"
+		livello: "intermedio"
+
+	estremo:
+		parola: "estremo"
+		categoria: "aggettivo"
+		significato: "極端な、過激な、究極の、最大限の"
+		forme:
+			maschile_singolare: "estremo"
+			femminile_singolare: "estrema"
+			maschile_plurale: "estremi"
+			femminile_plurale: "estreme"
+		sinonimi:
+			- "eccessivo（過度な）"
+			- "massimo（最大の）"
+			- "radicale（過激な）"
+		contrario: "moderato（穏健な、適度な）"
+		sostantivo: "estremo（極端、極限）"
+		espressioni_comuni:
+			- "caso estremo（極端な場合）"
+			- "misure estreme（極端な措置）"
+			- "all'estremo（極限まで）"
+		esempi:
+			- "Una situazione estrema（極端な状況）"
+			- "Prendere misure estreme（極端な措置を取る）"
+			- "È un caso estremo（それは極端なケースです）"
+		livello: "intermedio"
+
+	rinunciare:
+		parola: "rinunciare"
+		categoria: "verbo"
+		significato: "あきらめる、断念する、手放す"
+		spiegazione: "「rinunciare a + 名詞/動名詞」で「〜をあきらめる・断念する」の意味"
+		imperfetto: "rinunciavo"
+		sinonimi:
+			- "arrendersi（降参する）"
+			- "cedere（譲る、折れる）"
+		contrario: "insistere（粘る、主張し続ける）"
+		espressioni_comuni:
+			- "rinunciare a un sogno（夢をあきらめる）"
+			- "rinunciare a qualcosa（何かを断念する）"
+			- "rinunciare ai propri diritti（自分の権利を放棄する）"
+		esempi:
+			- "Non voglio rinunciare al mio sogno（夢をあきらめたくない）"
+			- "Ha dovuto rinunciare al viaggio（旅行を断念しなければならなかった）"
+		livello: "intermedio"
+
+	rapporto:
+		parola: "rapporto"
+		categoria: "sostantivo"
+		significato: "比率、割合、関係"
+		spiegazione: "数学的・統計的な「比率」のほか、人や物事の関係を表すのにも使われる"
+		plurale: "rapporti"
+		sinonimi:
+			- "proporzione（比例、比）"
+			- "relazione（関係）"
+		espressioni_comuni:
+			- "rapporto 2 a 1（2対1の比）"
+			- "rapporto percentuale（百分率）"
+			- "il rapporto tra X e Y（XとYの間の比率・関係）"
+		esempi:
+			- "Qual è il rapporto tra donne e uomini?（男女の比率は？）"
+			- "Il rapporto è di tre a uno（比率は3対1です）"
+		livello: "intermedio"
+
+	pressione:
+		parola: "pressione"
+		categoria: "sostantivo"
+		significato: "圧力、プレッシャー、血圧"
+		plurale: "pressioni"
+		spiegazione: "物理的な力のほか、精神的なプレッシャーや血圧にも使われる"
+		sinonimi:
+			- "forza（力）"
+			- "stress（ストレス）"
+			- "tensione（緊張）"
+		espressioni_comuni:
+			- "pressione atmosferica（気圧）"
+			- "sotto pressione（プレッシャーを受けて）"
+			- "pressione sanguigna（血圧）"
+		esempi:
+			- "Sento molta pressione al lavoro（仕事で大きなプレッシャーを感じる）"
+			- "La pressione è alta oggi（今日は気圧が高い）"
+			- "Misurare la pressione（血圧を測る）"
+		livello: "intermedio"
+
+	debole:
+		parola: "debole"
+		categoria: "aggettivo"
+		significato: "弱い、力がない、か弱い"
+		plurale_maschile: "deboli"
+		plurale_femminile: "deboli"
+		forma_femminile: "debole"
+		sinonimi:
+			- "fragile（壊れやすい）"
+			- "fiacco（元気のない）"
+			- "poco forte（あまり強くない）"
+		contrario: "forte（強い）"
+		espressioni_comuni:
+			- "punto debole（弱点）"
+			- "voce debole（弱々しい声）"
+			- "essere debole di carattere（気が弱い）"
+		esempi:
+			- "Mi sento debole oggi（今日は体が弱っている）"
+			- "Il segnale è troppo debole（信号が弱すぎる）"
+			- "Ha un punto debole per i dolci（甘いものに弱い）"
+		livello: "intermedio"
+
+calco:
+	parola: "calco"
+	categoria: "sostantivo"
+	significato: "型、鋳型、写し取り"
+	spiegazione: "粘土や石膏などで原型を複製するために作る陰型"
+	plurale: "calchi"
+	sinonimi:
+		- "stampino（型）"
+		- "modello negativo（陰型）"
+	espressioni_comuni:
+		- "fare un calco in argilla（粘土で型を作る）"
+		- "calco in gesso（石膏の型）"
+	esempi:
+		- "Hanno fatto un calco in argilla prima di stamparlo in 3D（3Dプリントの前に粘土で型を作った）"
+		- "Il museo espone il calco della statua originale（博物館は元の像の型を展示している）"
+	livello: "intermedio"
+
+	festeggiare:
+		parola: "festeggiare"
+		categoria: "verbo"
+		significato: "祝う、祝祭する、お祝いをする"
+		imperfetto: "festeggiavo"
+		participio_passato: "festeggiato"
+		sinonimi:
+			- "celebrare（祝う、祝賀する）"
+			- "commemorare（記念する）"
+		esempi:
+			- "Ieri sera nel mio paese si festeggiava l'Immacolata concezione（昨夜、私の町では無原罪の御宿りが祝われていた）"
+			- "Festeggiamo il compleanno insieme（一緒に誕生日を祝いましょう）"
+			- "Si festeggia il Natale il 25 dicembre（クリスマスは12月25日に祝われる）"
+		livello: "intermedio"
+
+	immacolata_concezione:
+		parola: "Immacolata concezione"
+		categoria: "sostantivo_composto"
+		significato: "無原罪の御宿り（カトリックの教義）"
+		spiegazione: "聖母マリアが原罪なくして受胎したというカトリックの教義。12月8日が祝日"
+		componenti:
+			- "immacolata（無原罪の、汚れのない）"
+			- "concezione（受胎、概念）"
+		esempi:
+			- "Ieri sera nel mio paese si festeggiava l'Immacolata concezione（昨夜、私の町では無原罪の御宿りが祝われていた）"
+			- "L'8 dicembre è la festa dell'Immacolata concezione（12月8日は無原罪の御宿りの祝日です）"
+		livello: "avanzato"
+
+	tradizione:
+		parola: "tradizione"
+		categoria: "sostantivo"
+		significato: "伝統、慣習、しきたり"
+		plurale: "tradizioni"
+		aggettivo: "tradizionale（伝統的な）"
+		sinonimi:
+			- "usanza（慣習）"
+			- "costume（風習）"
+		espressioni_comuni:
+			- "come da tradizione（伝統通りに）"
+			- "seguire la tradizione（伝統に従う）"
+		esempi:
+			- "Come da tradizione si è acceso un grande falò（伝統通りに大きなかがり火が点火された）"
+			- "È una tradizione di famiglia（それは家族の伝統です）"
+			- "Rispettare le tradizioni locali（地元の伝統を尊重する）"
+		livello: "intermedio"
+
+	accendere:
+		parola: "accendere"
+		categoria: "verbo"
+		significato: "火をつける、点火する、つける（電気など）"
+		imperfetto: "accendevo"
+		participio_passato: "acceso"
+		forma_riflessiva: "accendersi（火がつく、点灯する）"
+		sinonimi:
+			- "avviare（始動する）"
+			- "attivare（作動させる）"
+		contrario: "spegnere（消す）"
+		espressioni_comuni:
+			- "accendere il fuoco（火をつける）"
+			- "accendere la luce（電気をつける）"
+			- "accendere un falò（かがり火を点火する）"
+		esempi:
+			- "Come da tradizione si è acceso un grande falò（伝統通りに大きなかがり火が点火された）"
+			- "Accendi la luce, per favore（電気をつけてください）"
+			- "Si accende il caminetto in inverno（冬に暖炉に火をつける）"
+		livello: "intermedio"
+
+	falò:
+		parola: "falò"
+		categoria: "sostantivo"
+		significato: "かがり火、焚き火、大きな火"
+		plurale: "falò"
+		spiegazione: "野外で薪などを積み上げて燃やす大きな火。祭りや伝統行事で使われる"
+		sinonimi:
+			- "falo（同じ意味、アクセントなしの表記も可）"
+			- "rogo（焚き火、火葬の火）"
+		esempi:
+			- "Come da tradizione si è acceso un grande falò（伝統通りに大きなかがり火が点火された）"
+			- "Il falò di San Giovanni（サン・ジョヴァンニのかがり火）"
+			- "Accendere un falò sulla spiaggia（ビーチで焚き火を点火する）"
+		livello: "intermedio"
+
+	terremoto:
+		parola: "terremoto"
+		categoria: "sostantivo"
+		significato: "地震"
+		plurale: "terremoti"
+		sinonimi:
+			- "sisma（地震、より専門的）"
+			- "scossa sismica（地震動）"
+		esempi:
+			- "Ho letto che c'è stato il terremoto in Giappone ieri di magnitudo 7.6（昨日マグニチュード7.6の地震が日本で発生したと読みました）"
+			- "Il terremoto si è sentito anche a Tokyo（地震は東京でも感じられた）"
+			- "Il terremoto ha causato molti danni（地震は多くの被害をもたらした）"
+		livello: "intermedio"
+
+	magnitudo:
+		parola: "magnitudo"
+		categoria: "sostantivo"
+		significato: "マグニチュード（地震の規模を表す単位）"
+		plurale: "magnitudo"
+		spiegazione: "地震のエネルギーを表す対数スケール。通常は0から10までの値で表される"
+		esempi:
+			- "Ho letto che c'è stato il terremoto in Giappone ieri di magnitudo 7.6（昨日マグニチュード7.6の地震が日本で発生したと読みました）"
+			- "Un terremoto di magnitudo 5.0（マグニチュード5.0の地震）"
+			- "La magnitudo è stata misurata dall'istituto sismologico（マグニチュードは地震研究所によって測定された）"
+		livello: "avanzato"
+
+	stanotte:
+		parola: "stanotte"
+		categoria: "avverbio"
+		significato: "今夜、昨夜"
+		spiegazione: "「sta（この）+ notte（夜）」から成る。文脈によって「今夜」または「昨夜」を指す"
+		sinonimi:
+			- "questa notte（今夜）"
+			- "la scorsa notte（昨夜）"
+		esempi:
+			- "Stanotte c'è stato anche in un paese vicino a dove lavoro（昨夜、私が働いている場所の近くの町でも発生した）"
+			- "Stanotte non ho dormito bene（昨夜よく眠れなかった）"
+			- "Ci vediamo stanotte（今夜会いましょう）"
+		livello: "intermedio"
+
+	scosse:
+		parola: "scosse"
+		categoria: "sostantivo"
+		significato: "揺れ、震動、地震動"
+		singolare: "scossa"
+		spiegazione: "地震による地面の揺れを指す。複数形で「複数の揺れ」を表す"
+		sinonimi:
+			- "terremoto（地震）"
+			- "tremore（震動）"
+		espressioni_comuni:
+			- "scosse singole（単発の揺れ）"
+			- "scosse di assestamento（余震）"
+			- "scossa tellurica（地震動）"
+		esempi:
+			- "Speriamo siano state scosse singole（単発の揺れだったことを願います）"
+			- "Ci sono state diverse scosse dopo il terremoto principale（主震の後に複数の揺れがあった）"
+			- "La scossa è stata molto forte（揺れは非常に強かった）"
+		livello: "intermedio"
+
+	singole:
+		parola: "singole"
+		categoria: "aggettivo"
+		significato: "単一の、個別の、独立した"
+		singolare_maschile: "singolo"
+		singolare_femminile: "singola"
+		plurale_maschile: "singoli"
+		plurale_femminile: "singole"
+		sinonimi:
+			- "isolate（孤立した、単独の）"
+			- "individuali（個別の）"
+		contrario: "multiple（複数の）"
+		esempi:
+			- "Speriamo siano state scosse singole（単発の揺れだったことを願います）"
+			- "Camere singole（シングルルーム）"
+			- "Casi singoli（個別のケース）"
+		livello: "intermedio"
+
+	ripetano:
+		parola: "ripetano"
+		categoria: "verbo"
+		significato: "繰り返す、再発する（ripetereの接続法現在形）"
+		verbo_base: "ripetere（繰り返す）"
+		modo: "congiuntivo presente（接続法現在）"
+		coniugazione: "che loro ripetano（彼らが繰り返すように）"
+		sinonimi:
+			- "ricorrere（再発する）"
+			- "riaccadere（再び起こる）"
+		esempi:
+			- "Speriamo che non si ripetano più per entrambi i nostri paesi（両方の国で再発しないことを願います）"
+			- "Spero che non si ripeta（再発しないことを願います）"
+			- "Non voglio che si ripeta l'errore（間違いが繰り返されないようにしたい）"
+		livello: "avanzato"
+
 # 統計情報
 statistiche:
-	totale_parole: 25
+	totale_parole: 45
 	livelli:
-		intermedio: 14
-		avanzato: 11
+		intermedio: 32
+		avanzato: 13
 	categorie:
-		verbo: 2
+		verbo: 8
 		verbo_riflessivo: 1
-		aggettivo: 6
+		aggettivo: 9
 		aggettivo_sostantivo: 2
-		sostantivo: 7
-		sostantivo_composto: 3
-		avverbio: 2
+		sostantivo: 15
+		sostantivo_composto: 4
+		avverbio: 3
 		espressione: 1
 		espressione_verbale: 1
 		pronome_interrogativo: 1

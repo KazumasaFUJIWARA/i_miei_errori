@@ -215,6 +215,72 @@
 		"input": "Per noi, il periodo dei difunti è la vacanza di estate.",
 		"correzione": "Per noi, il periodo dei defunti sono le vacanze estive.",
 		"argomento": ["lessico (defunti vs difunti)", "accordo verbo-soggetto (sono vs è)", "lessico (vacanze estive vs vacanza di estate)", "uso del plurale (le vacanze)"]
+	},
+	{
+		"data": "2025-11-14-05-28",
+		"input": "Qualche volte, prendo meno attenzione e faccio errori.",
+		"correzione": "Qualche volta, presto meno attenzione e faccio errori.",
+		"argomento": ["uso di 'qualche' (sempre singolare)", "lessico (prestare vs prendere attenzione)", "espressione idiomatica"]
+	},
+	{
+		"data": "2025-11-14-06-49",
+		"input": "Ho capito. Ho una domanda. Puoi trovare le gente di Treviso dal modo di parlare?",
+		"correzione": "Ho capito. Ho una domanda. Puoi riconoscere la gente di Treviso dal loro modo di parlare?",
+		"argomento": ["sostantivo collettivo (la gente vs le gente)", "lessico (riconoscere vs trovare)", "uso del possessivo (loro modo)"]
+	},
+	{
+		"data": "2025-11-18-00-18",
+		"input": "E poi il numero di donne che vogliono sposare é doppia dal numero di uomini.",
+		"correzione": "E poi il numero di donne che vogliono sposarsi è il doppio del numero di uomini.",
+		"argomento": ["verbo riflessivo (sposarsi)", "accordo aggettivo-sostantivo (doppio)", "uso di 'il doppio di'", "accento grafico (è)"]
+	},
+	{
+		"data": "2025-11-18-01-09",
+		"input": "Farebbe il mio figlio divertersi",
+		"correzione": "Farò divertire mio figlio.",
+		"argomento": ["costruzione causativa (fare + infinitivo)", "uso dell'articolo possessivo (mio figlio senza articolo)", "infinitivo corretto (divertire vs divertersi)", "tempo verbale (futuro semplice)"]
+	},
+	{
+		"data": "2025-11-20-00-00",
+		"input": "Perché i albelli di ciliegi diventerano troppo vecchi.",
+		"correzione": "Perché gli alberi di ciliegio diventeranno troppo vecchi.",
+		"argomento": ["articolo determinativo (gli alberi)", "ortografia (alberi, ciliegio)", "tempo futuro (diventeranno)", "accordo nome-aggettivo"]
+	},
+	{
+		"data": "2025-12-09-23-20",
+		"input": "Si, Martedi devo anallisare il data di 90 studenti.",
+		"correzione": "Sì, martedì devo analizzare i dati di 90 studenti.",
+		"argomento": ["accento grafico (sì, martedì)", "ortografia (analizzare)", "sostantivo plurale (i dati vs il data)", "majuscole (martedì)"]
+	},
+	{
+		"data": "2025-12-09-23-25",
+		"input": "Ti ringrazio per parlare co me!",
+		"correzione": "Ti ringrazio per parlare con me!",
+		"argomento": ["preposizione (con vs co)", "uso moderno dell'italiano"]
+	},
+	{
+		"data": "2025-12-09-23-29",
+		"input": "一年使ったお守りなどをここで焼きます。",
+		"correzione": "Qui vengono bruciati gli amuleti usati per un anno, ecc.",
+		"argomento": ["traduzione dal giapponese", "voce passiva", "participio passato", "preposizione temporale"]
+	},
+	{
+		"data": "2025-12-09-23-33",
+		"input": "Comunque, mia mogie non si piaccion eventi del Shintonismo o Buddhismo.",
+		"correzione": "Comunque, a mia moglie non piacciono gli eventi dello shintoismo o del buddhismo.",
+		"argomento": ["ortografia (moglie)", "verbo piacere (costruzione con a + dativo)", "coniugazione verbale (piacciono)", "articolo determinativo", "preposizione articolata (dello)", "majuscole (nomi di religioni)"]
+	},
+	{
+		"data": "2025-12-27-00-16",
+		"input": "Ora ho raffeddore e ho mal di gola.",
+		"correzione": "Ora ho il raffreddore e ho il mal di gola.",
+		"argomento": ["ortografia (raffreddore)", "articolo determinativo (il raffreddore, il mal di gola)"]
+	},
+	{
+		"data": "2025-12-27-00-28",
+		"input": "Le canzoni d'amore non somo i miei gusti.",
+		"correzione": "Le canzoni d'amore non mi piacciono.",
+		"argomento": ["ortografia (sono vs somo)", "espressione idiomatica (piacere vs essere i miei gusti)", "verbo piacere (costruzione con dativo)"]
 	}
 ]
 }
